@@ -5,7 +5,7 @@ export default function task11() {
   return (
     <ul>
       {numbers.map((number) => (
-        <li>
+        <li style={{margin:"10px"}}>
           <span style={{ backgroundColor: "yellow", padding: "2px" }}>
             Doubled
           </span>

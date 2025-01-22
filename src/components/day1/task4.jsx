@@ -13,7 +13,7 @@ const Style = () => {
       <span style={wordStyles.coding}>Coding</span>{' '}
       <span style={wordStyles.academy}>Academy</span>
     </h1>
-  );
+);
 };
 
 export default Style;
